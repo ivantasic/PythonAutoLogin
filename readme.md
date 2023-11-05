@@ -7,4 +7,4 @@ Download script and change #username and #password to your instagram account uss
 Run app.py and your mozilla browser will automaticly start login to your account.
 ! Make sure u have Mozilla Firefox downloaded on your PC !
 
-
+** 2023 UPDATE - Have not tested it, but its probable outdated **
